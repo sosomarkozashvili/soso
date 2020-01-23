@@ -1,0 +1,50 @@
+.navtext{
+    background: #1E2D3B;
+    color: white;
+    .demo{
+            color: #EDCD20;
+
+    }
+    ul{
+        display: flex;
+        list-style: none;
+       li{
+        margin-left: 8%;
+        position: relative;
+        left: 27%;
+        top: 35px;
+       }
+    }
+}
+.logo1 {
+    background: #EDCD20;
+    display: flex;
+    height: 100px;
+
+    .text1{
+            text-align: left;
+            margin-left: 15%;
+            margin-top: 3%;
+        h1{
+            font-size: 25px;
+            color: #1E2D3B;
+        }
+        h2{
+            font-size: 25px;
+
+            color: #1E2D33;
+            font-weight: 300;
+        }
+
+    }
+     img {
+    position: relative;
+    left: 50%;
+    top: 25%;
+    }
+}
+
+.nav15{
+    z-index: 1;
+    position: fixed;
+}
